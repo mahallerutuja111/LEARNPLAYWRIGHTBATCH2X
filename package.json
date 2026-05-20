@@ -1,0 +1,22 @@
+{
+  "name": "learnplaywrightbatch2x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahallerutuja111/LEARNPLAYWRIGHTBATCH2X.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahallerutuja111/LEARNPLAYWRIGHTBATCH2X/issues"
+  },
+  "homepage": "https://github.com/mahallerutuja111/LEARNPLAYWRIGHTBATCH2X#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.0"
+  }
+}
